@@ -1,0 +1,14 @@
+E:\hoctap\tinhtong\bin\Debug\net8.0\tinhtong.exe
+E:\hoctap\tinhtong\bin\Debug\net8.0\tinhtong.deps.json
+E:\hoctap\tinhtong\bin\Debug\net8.0\tinhtong.runtimeconfig.json
+E:\hoctap\tinhtong\bin\Debug\net8.0\tinhtong.dll
+E:\hoctap\tinhtong\bin\Debug\net8.0\tinhtong.pdb
+E:\hoctap\tinhtong\obj\Debug\net8.0\tinhtong.GeneratedMSBuildEditorConfig.editorconfig
+E:\hoctap\tinhtong\obj\Debug\net8.0\tinhtong.AssemblyInfoInputs.cache
+E:\hoctap\tinhtong\obj\Debug\net8.0\tinhtong.AssemblyInfo.cs
+E:\hoctap\tinhtong\obj\Debug\net8.0\tinhtong.csproj.CoreCompileInputs.cache
+E:\hoctap\tinhtong\obj\Debug\net8.0\tinhtong.dll
+E:\hoctap\tinhtong\obj\Debug\net8.0\refint\tinhtong.dll
+E:\hoctap\tinhtong\obj\Debug\net8.0\tinhtong.pdb
+E:\hoctap\tinhtong\obj\Debug\net8.0\tinhtong.genruntimeconfig.cache
+E:\hoctap\tinhtong\obj\Debug\net8.0\ref\tinhtong.dll
